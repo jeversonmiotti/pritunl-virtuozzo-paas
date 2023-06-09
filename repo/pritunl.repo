@@ -3,4 +3,3 @@ name=Pritunl Stable Repository
 baseurl=https://repo.pritunl.com/stable/yum/centos/7/
 gpgcheck=1
 enabled=1
-EOF
